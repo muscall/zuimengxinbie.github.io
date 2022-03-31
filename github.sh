@@ -17,6 +17,6 @@ git add -A
 git commit -m 'github仓库'
 
 # 如果发布到 https://<USERNAME>.github.io
-git push -f https://github.com/zuimengxinbie/zuimengxinbie.github.io.git main
+git push https://github.com/zuimengxinbie/zuimengxinbie.github.io.git/ main
 
 cd -
