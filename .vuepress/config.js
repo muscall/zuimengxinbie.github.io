@@ -2,7 +2,7 @@
 module.exports = {
   title: "helloChen",
   description: "welcome to my world",
-  dest: "public",
+  dest: "docs",
   head: [
     [
       "link",
@@ -39,7 +39,7 @@ module.exports = {
         "items": [
           {
             "text": "前端规划",
-            "link": "/docs/web/"
+            "link": "/document/web/"
           }
         ]
       },
@@ -56,7 +56,7 @@ module.exports = {
     ],
     // 侧边栏
     "sidebar": {
-      "/docs/web/": [
+      "/document/web/": [
         "",
         "关于博主",
         "写作指南",
