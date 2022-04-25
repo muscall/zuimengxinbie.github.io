@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: Hello, Chen
-tagline: 不要在该奋斗的年纪选择安逸，在这记录了我成长的脚步
+tagline: 无人问津也好，技不如人也罢，试着安静下来，去做自己该做的事，而不是让烦恼和焦虑毁掉你本就不多的热情和定力
 bgImage: '/one.jpg'
 # bgImageStyle: {
 #   height: '450px'
