@@ -21,6 +21,7 @@ module.exports = {
   ],
   theme: "reco",
   themeConfig: {
+    "mode": "dark",
     // 导航栏
     "nav": [
       {
@@ -128,6 +129,14 @@ module.exports = {
         zIndex: -1
       },
     ],
-
+    ["sakura", {
+      num: 20,  // 默认数量
+      show: true, //  是否显示
+      zIndex: 99,   // 层级
+      img: {
+        replace: false,  // false 默认图 true 换图 需要填写httpUrl地址
+        httpUrl: '...'     // 绝对路径
+      }
+    }]
   ]
 }

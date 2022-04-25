@@ -2,10 +2,10 @@
 home: true
 heroText: Hello, Chen
 tagline: 不要在该奋斗的年纪选择安逸，在这记录了我成长的脚步
-bgImage: '/banner.png'
-bgImageStyle: {
-  height: '450px'
-}
+bgImage: '/one.jpg'
+# bgImageStyle: {
+#   height: '450px'
+# }
 isShowTitleInHome: false
 actionText: Guide
 actionLink: /views/other/guide
