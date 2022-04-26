@@ -40,7 +40,19 @@ module.exports = {
         "items": [
           {
             "text": "前端规划",
-            "link": "/document/web/"
+            "link": "/pages/document220101/"
+          },
+          {
+            "text": "关于博主",
+            "link": "/pages/document220103/"
+          },
+          {
+            "text": "写作指南",
+            "link": "/pages/document220102/"
+          },
+          {
+            "text": "友情链接",
+            "link": "/pages/document220104/"
           }
         ]
       },
