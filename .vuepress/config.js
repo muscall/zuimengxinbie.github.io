@@ -21,7 +21,7 @@ module.exports = {
   ],
   theme: "reco",
   themeConfig: {
-    "mode": "dark",
+    // "mode": "dark",
     // 导航栏
     "nav": [
       {
