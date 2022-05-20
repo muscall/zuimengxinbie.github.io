@@ -26,26 +26,143 @@ permalink: /pages/document220101/
 ## 生词本
 
 - exact: 精确的   // e g ran k t
+
 - creators: 创造者 
+
 - provider: 提供者
+
 - consumer： 消费者  // c see y m
+
 - provide:  提供
+
 - inject:  注入
+
 - boundary:  边界
-- practices : 实践
+
 - instance:  实例
+
 - performance:  性能   // po f m ci
+
 - insights: 洞察  // in sa i t
+
 - compiler: 编译器
+
 - expose: 暴露
+
 - track: 追踪
+
 - trigger:  触发
+
 - reference: 引用
+
 - excutor: 执行器 
+
 - exception: 异常
+
 - caught: 捕获
+
 - race: 赛跑
+
 - instanceof ： 实例
+
+- ref： 引用
+
+- modified: 修改的
+
+- log：日志
+
+- reflow: 重排
+
+- practive: 实践
+
+- arrow: 箭头，矢
+
+- implements: 工具
+
+- suspense: 焦虑
+
+- teleport： 传送
+
+- entries: 进入
+
+- optimization: 最优化
+
+- memory: 存储器
+
+- destool: 废除
+
+- source: 来源
+
+- enforce: 执行、加强
+
+- extract: 提取
+
+- uglify: 将...丑化
+
+- core: 核心
+
+- polyfill:  腻子脚本
+
+- airbnb: 代码规范
+
+- statement: 声明
+
+- optimize: 优化
+
+- extends: 扩展
+
+- anonymous:  匿名
+
+- relect: 反映
+
+- trunc： 截取
+
+- iterator: 迭代器
+
+- shallow: 浅的
+
+- echo： 输出
+
+- cat:  查看
+
+- reset： 重写
+
+- branch:  分支
+
+- merge: 合并  // mo e j
+
+- conflict : 冲突
+
+- automatic: 自动的
+
+- accept: 接收
+
+- incoming: 传入，进来
+
+- abort: 终止
+
+- excutor: 构造器函数  // e k s k ui ter
+
+- interceptors: 拦截器  // in ter san p ter s
+
+- authorization: 权限  // o s r i z x
+
+- workspace:  工作区 
+
+- stage: 暂存区
+
+- repository:  仓库区 / 本地仓库  // rui po s t rui
+
+- remote: 远端
+
+- lodash: js工具库  // low dash
+
+- trunc: 数字截尾取整
+
+- assignable:  分配
+- parameter:  参数
+- implements: 实现
+- declare:  声明
 
 ## 术语
 
