@@ -163,6 +163,13 @@ permalink: /pages/document220101/
 - parameter:  参数
 - implements: 实现
 - declare:  声明
+- identifier: 标识符
+- implements:  实现  // in p man ci
+- assignable: 赋值
+- eval: 执行脚本  // yi wan er
+- activation-object: 活动对象  
+- closure: 闭包
+- report: 报告
 
 ## 术语
 
