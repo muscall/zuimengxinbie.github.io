@@ -170,6 +170,7 @@ permalink: /pages/document220101/
 - activation-object: 活动对象  
 - closure: 闭包
 - report: 报告
+- toPrimitive: 转化类型
 
 ## 术语
 
@@ -184,3 +185,7 @@ permalink: /pages/document220101/
 - 心智负担
 
   > 指做某件事需要费脑费心计的压力
+  
+- 晦涩
+
+  形容诗文、乐曲等含意隐晦，语言生硬难读，不易懂
