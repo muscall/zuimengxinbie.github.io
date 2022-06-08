@@ -171,6 +171,7 @@ permalink: /pages/document220101/
 - closure: 闭包
 - report: 报告
 - toPrimitive: 转化类型
+- attachment: 连接
 
 ## 术语
 

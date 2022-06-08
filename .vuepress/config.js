@@ -44,7 +44,7 @@ module.exports = {
           },
           {
             "text": "关于博主",
-            "link": "/pages/document220103/"
+            "link": "/pages/document220114/"
           },
           {
             "text": "写作指南",
@@ -158,7 +158,7 @@ module.exports = {
         repo: 'zuimengxinbie.github.io', //github一个项目的名称
         clientId: '53bb8194551f33f90a0d',//注册的Client ID
         clientSecret: 'e86408eb20d6dddfd3d71e41ced383c86d7892ae',//注册的Client Secret
-        autoCreateIssue:true // 自动创建评论，默认是false，最好开启，这样首次进入页面的时候就不用去点击创建评论的按钮了。
+        autoCreateIssue: true // 自动创建评论，默认是false，最好开启，这样首次进入页面的时候就不用去点击创建评论的按钮了。
       },
     ]
   ]
