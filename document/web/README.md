@@ -172,6 +172,10 @@ permalink: /pages/document220101/
 - report: 报告
 - toPrimitive: 转化类型
 - attachment: 连接
+- memory: 内存
+- disk: 硬盘
+- encounters:  遭遇
+- renderer: 渲染
 
 ## 术语
 
