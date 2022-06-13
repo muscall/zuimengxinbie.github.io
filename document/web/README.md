@@ -176,6 +176,8 @@ permalink: /pages/document220101/
 - disk: 硬盘
 - encounters:  遭遇
 - renderer: 渲染
+- flush: 刷新
+- PascalCase: 帕斯卡命名法
 
 ## 术语
 
