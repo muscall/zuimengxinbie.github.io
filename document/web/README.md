@@ -125,6 +125,9 @@ permalink: /pages/document220101/
 - apifox： 对接文档
 - appsecret:  应用密钥
 - seeion_key: 会话密钥
+- assign: 分配  // a sa i n
+- current: 当前的 // ka rong t
+- dispatch: 派遣 // dis ban qu
 
 ## 术语
 
