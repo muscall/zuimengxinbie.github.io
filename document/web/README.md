@@ -71,7 +71,7 @@ permalink: /pages/document220101/
 - anonymous:  匿名
 - relect: 反映
 - trunc： 截取
-- iterator: 迭代器
+- iterator: 迭代器 // i t rui ter
 - shallow: 浅的
 - echo： 输出
 - cat:  查看
@@ -128,6 +128,15 @@ permalink: /pages/document220101/
 - assign: 分配  // a sa i n
 - current: 当前的 // ka rong t
 - dispatch: 派遣 // dis ban qu
+- alias: 别名 //  ai li si
+- fulfilled: 实现, 满足  // ful fei er d
+- resolved: 已解决  // rui rang v d
+- access： 访问  // an k c s
+- opacity: 透明度  // o pa city
+- status: 状态 // s dai te s
+- subscribe: 订阅  // si b s kua i b
+- shim: 实现  // xie m
+- poly: 脚本  // po li fill
 
 ## 术语
 
